@@ -1,0 +1,14 @@
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+
+
+    .link {
+        text-decoration: none;
+        color: black;
+        font-family: 'Ms Madi', cursive;
+        font-size: 30px;
+    }
+}
